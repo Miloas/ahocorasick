@@ -8,8 +8,8 @@ import (
 )
 
 const (
-	DefaultTokenBufferSize = 4096
-	DefaultMatchBufferSize = 4096
+	DefaultTokenBufferSize = 137500
+	DefaultMatchBufferSize = 137500
 )
 
 // Matcher Aho Corasick Matcher
